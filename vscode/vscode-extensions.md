@@ -3,17 +3,20 @@
 # Language
 
 - Go
-- C++
+- C/C++ Extension Pack
 - CodeRunner
 
 ## Git
 
-- Git History
+- Git History Diff
 - GitLens
 
 ## common 
+
 - vscode-icons
 - vscode-proto3
+- Jinja
+- WakaTime: 代码统计
 
 ## format
 
